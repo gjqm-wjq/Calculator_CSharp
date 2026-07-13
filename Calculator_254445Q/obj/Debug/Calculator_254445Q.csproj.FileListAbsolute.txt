@@ -1,0 +1,33 @@
+C:\!EG2E12\Testing\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.csproj.AssemblyReference.cache
+C:\!EG2E12\Testing\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.MainForm_254445Q.resources
+C:\!EG2E12\Testing\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.Properties.Resources.resources
+C:\!EG2E12\Testing\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.csproj.GenerateResource.cache
+C:\!EG2E12\Testing\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.csproj.CoreCompileInputs.cache
+C:\!EG2E12\Testing\Calculator_254445Q\Calculator_254445Q\bin\Debug\Calculator_254445Q.exe.config
+C:\!EG2E12\Testing\Calculator_254445Q\Calculator_254445Q\bin\Debug\Calculator_254445Q.exe
+C:\!EG2E12\Testing\Calculator_254445Q\Calculator_254445Q\bin\Debug\Calculator_254445Q.pdb
+C:\!EG2E12\Testing\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.exe
+C:\!EG2E12\Testing\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.pdb
+C:\!EG2E12\Testing\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.exe.config
+C:\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\bin\Debug\Calculator_254445Q.exe.config
+C:\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\bin\Debug\Calculator_254445Q.exe
+C:\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\bin\Debug\Calculator_254445Q.pdb
+C:\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.csproj.AssemblyReference.cache
+C:\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.exe.config
+C:\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.MainForm_254445Q.resources
+C:\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.Properties.Resources.resources
+C:\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.csproj.GenerateResource.cache
+C:\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.csproj.CoreCompileInputs.cache
+C:\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.exe
+C:\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.pdb
+C:\!EG2E12\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\bin\Debug\Calculator_254445Q.exe.config
+C:\!EG2E12\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\bin\Debug\Calculator_254445Q.exe
+C:\!EG2E12\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\bin\Debug\Calculator_254445Q.pdb
+C:\!EG2E12\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.csproj.AssemblyReference.cache
+C:\!EG2E12\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.exe.config
+C:\!EG2E12\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.MainForm_254445Q.resources
+C:\!EG2E12\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.Properties.Resources.resources
+C:\!EG2E12\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.csproj.GenerateResource.cache
+C:\!EG2E12\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.csproj.CoreCompileInputs.cache
+C:\!EG2E12\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.exe
+C:\!EG2E12\PROJ01-E3-07-254445Q-GOH JIN QUAN MARCUS\Calculator_254445Q\Calculator_254445Q\obj\Debug\Calculator_254445Q.pdb

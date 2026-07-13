@@ -1,0 +1,22 @@
+{
+  "ShowEmptyProjects": false,
+  "SelectedGroups": [
+    "C:\\!EG2E12\\Testing\\Calculator_254445Q\\Calculator_254445Q\\Properties\\Resources.resx",
+    "C:\\!EG2E12\\Testing\\Calculator_254445Q\\Calculator_254445Q\\MainForm_254445Q.resx"
+  ],
+  "ExpandedProjects": [],
+  "EnableSpellChecker": true,
+  "ColumnOrder": [
+    "name",
+    "file-path",
+    "file-name",
+    "type",
+    "neutral-value",
+    "neutral-comment"
+  ],
+  "VisibleColumnKeys": [
+    "name",
+    "neutral-comment",
+    "neutral-value"
+  ]
+}
