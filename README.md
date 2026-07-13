@@ -13,7 +13,7 @@ This is a Windows Forms scientific calculator project developed using C# in Visu
 
 ## Screenshot
 
-![Calculator Screenshot](images/calculator.png)
+![Calculator Screenshot](Images/calculator.png)
 
 ## Technologies Used
 
